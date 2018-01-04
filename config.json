@@ -1,0 +1,5 @@
+{
+  "LISTENING_PORT": 3000,
+  "prefix": "!",
+  "token": "BOT_TOKEN"
+}

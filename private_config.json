@@ -1,0 +1,19 @@
+/**
+If you want your bot to be public then you can delete this file.
+
+Keep in mind if you delete this then you will also have t delete the file name on main.js
+
+Follow these steps to delete this file:
+
+1. Delete this file
+2. Go to 'discord-bot-sourcefiles' then open the 'main.js' file.
+3. On the 10th line of the code you will see 'const prv_config = require("../private_config.json");'
+you want to delete that entire line.
+4. Just make sure your new 10th file now is 'const now = require("performance-now");'
+5. You are done!
+
+If you need any help make sure to join our discord! http://discord.me/yaman
+*/
+{
+"token": "BOT_TOKEN"
+}
